@@ -67,7 +67,7 @@ Desktop-First-Workflow
 [BootStrap.Docs](https://getbootstrap.com/)
 # Author
 - Github - [LeonardMunene](https://github.com/LeonardMunene)
-- Frontend Mentor -(https://www.frontendmentor.io/profile/LeonardMunene)
+
 # Acknowledgements
 To Dr Angela Yu ,Founder of The London app Brewery for taking me from writing my first line of code to creating this
 landing page and holding my hand through this development journey.I highly appreciate your efforts to teaching the world how to code and sharing your profound knowledge.Thanks
